@@ -1,0 +1,5 @@
+[package]
+name = "seed-rs-realworld"
+version = "0.1.0"
+edition = "2021"
+description = "Exemplary real world application built with Seed"
